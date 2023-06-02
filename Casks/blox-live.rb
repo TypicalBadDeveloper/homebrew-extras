@@ -12,6 +12,7 @@ cask "blox-live" do
 
   zap trash: [
     "~/Library/Application Support/blox-live-desktop-app",
+    "~/Library/Logs/Blox Staking",
     "~/Library/Preferences/com.bloxstaking.blox-live.plist",
     "~/Library/Saved Application State/com.bloxstaking.blox-live.savedState",
   ]
