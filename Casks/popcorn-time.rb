@@ -1,6 +1,6 @@
 cask "popcorn-time" do
-  version "0.5.0"
-  sha256 "26abc15d95b4afa48d9383f997ed7393bbcc0cca794a6aa8210b3dc468c08b89"
+  version "0.5.1"
+  sha256 "da6d993651e57cc88296f93f928ffedac3027313af0eb447ff8ca7a12a60e06a"
 
   url "https://github.com/popcorn-official/popcorn-desktop/releases/download/v#{version}/Popcorn-Time-#{version}-osx64.zip"
   name "Popcorn Time"
